@@ -1,0 +1,16 @@
+# .NET build outputs
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio local workspace and user files
+.vs/
+.cursor/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Firebase service-account credentials and local secret configuration
+*firebase-adminsdk*.json
+appsettings.*.local.json
+.nuget-packages/

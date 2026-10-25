@@ -1,0 +1,6 @@
+@digital_pharmacy_backend_HostAddress = http://144.91.111.63:5002
+
+GET {{digital_pharmacy_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
